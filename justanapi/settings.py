@@ -25,7 +25,7 @@ SECRET_KEY = '4ii$uz+1s*ww0upbo)q+)kcwq!e1&0#_z05kg#+p%gko3iv)zw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["my-quotes-app.herokuapp.com"]
+ALLOWED_HOSTS = [ ]
 
 
 # Application definition
